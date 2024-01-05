@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log('Hello world! My name is "Shelly" - Remember to run and debug');
+console.log('Hello world! My name is "Shelly"');
 /*
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
