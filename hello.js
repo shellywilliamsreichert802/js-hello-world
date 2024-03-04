@@ -4,8 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log('Hello World!');
-/*
+function hello() {
+	// TODO: change this string so that your program prints "Hello world!" 
+	return "Hello world!";
+}
+console.log (hello())
+
+module.exports = hello;/*
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
 
